@@ -1,144 +1,92 @@
 <div align="center">
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 # 🚀 Next Revolution Tech
 
 ### ERP Systems • AI Automation • Custom Business Software
 
 > **We don't build websites. We build systems that help businesses grow.**
 
-🌍 Pakistan • UAE • UK • USA
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-# 👋 Welcome
+# 👋 About Us
 
-Next Revolution Tech (NRT) is a software company focused on helping businesses eliminate manual work, automate operations, and scale with technology.
+Next Revolution Tech (NRT) helps businesses replace spreadsheets, paperwork and disconnected systems with modern ERP platforms, AI automation and custom business software.
 
-We design and develop enterprise-grade software that solves real business problems through ERP systems, AI automation, and custom business applications.
+Our mission is simple:
+
+> Build intelligent systems that improve productivity, reduce costs and help businesses scale.
 
 ---
 
-# 💼 What We Build
+# 🚀 What We Build
 
 ### 🏢 ERP Systems
 
-- Inventory Management
-- Sales & Purchase
+- Distribution ERP
 - Manufacturing ERP
 - HR & Payroll
 - CRM
-- Finance & Accounting
-
----
+- Inventory Management
+- Sales & Purchase
+- Accounting
 
 ### 🤖 AI Automation
 
 - AI Agents
-- Workflow Automation
-- Customer Support Automation
-- Lead Qualification
 - Business Process Automation
+- Lead Qualification
+- Customer Support AI
+- Workflow Automation
 
----
+### 💻 Custom Software
 
-### 💻 Custom Business Software
-
-- SaaS Platforms
-- Enterprise Applications
+- SaaS Applications
+- Enterprise Systems
 - Business Dashboards
-- Internal Management Systems
-- Industry-Specific Solutions
+- Industry Specific Software
+- Internal Management Platforms
 
 ---
 
-### 👨‍💻 Dedicated Development Teams
+# 💻 Tech Stack
 
-- Full Stack Development
-- ERP Teams
-- AI Engineers
-- Long-Term Technology Partnership
-
----
-
-# 🛠 Tech Stack
-
-### Frontend
-
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-
-### Backend
-
-- Node.js
-- Express
-- .NET Core
-
-### Database
-
-- PostgreSQL
-- SQL Server
-- Prisma ORM
-
-### Mobile
-
-- Flutter
-
-### Cloud & DevOps
-
-- Docker
-- Vercel
-- Azure
-- GitHub Actions
+| Frontend | Backend | Database | Cloud |
+|-----------|----------|----------|--------|
+| Next.js | Node.js | PostgreSQL | Azure |
+| React | Express | SQL Server | Vercel |
+| TypeScript | .NET Core | Prisma | Docker |
 
 ---
 
-# 🚀 Featured Projects
+# ⭐ Featured Projects
 
-⭐ NRT Trade ERP
+### 🚀 NRT Trade ERP
+Enterprise Multi-Tenant ERP for Distributors & Manufacturers.
 
-Enterprise Multi-Tenant ERP System
+### 🤖 AI Business Automation
+AI Agents & Business Workflow Automation.
 
----
+### 🧰 DevKitly
+Developer productivity tools built with Next.js.
 
-⭐ DevKitly
+### 🏫 School Management System
+Complete ERP solution for educational institutions.
 
-Developer Productivity Toolkit
-
----
-
-⭐ AI Business Automation
-
-AI Agents & Workflow Automation
-
----
-
-⭐ School Management System
-
-Complete School ERP Solution
+### 🏘 Society Management System
+Modern society & resident management platform.
 
 ---
 
-⭐ Society Management System
-
-Community Management Platform
-
----
-
-# 🎯 Industries We Serve
+# 🌍 Industries
 
 - Manufacturing
 - Distribution
@@ -148,11 +96,33 @@ Community Management Platform
 - Construction
 - Logistics
 - Real Estate
-- Corporate Businesses
 
 ---
 
-# 🌐 Connect With Us
+# 🎯 Business Outcomes
+
+✅ Reduce Manual Work
+
+✅ Improve Productivity
+
+✅ Automate Operations
+
+✅ Increase Business Visibility
+
+✅ Scale Faster
+
+---
+
+# 🛠 Currently Building
+
+- Enterprise ERP Platform
+- AI Business Assistant
+- DevKitly
+- Business Automation Solutions
+
+---
+
+# 🌐 Connect
 
 🌍 Website
 
@@ -164,16 +134,10 @@ info@nextrevolutiontech.tech
 
 ---
 
-# 📈 Mission
-
-Helping businesses replace spreadsheets, paperwork, and manual operations with intelligent digital systems.
-
----
-
 <div align="center">
 
-### ⭐ Building the Next Generation of Business Software
+## ⭐ Building the Future of Business Technology
 
-**ERP • AI • Automation • Business Transformation**
+### ERP • AI • Automation • Digital Transformation
 
 </div>
